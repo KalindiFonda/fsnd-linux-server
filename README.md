@@ -8,7 +8,7 @@ Serves application based off of [this project](https://github.com/KalindiFonda/f
 2. URL to application http://ec2-34-217-236-246.us-west-2.compute.amazonaws.com
 
 
-### Instructions to set up server:
+### Instructions to set things up:
 
 1. set up new instance on AWS Lightsail (linux - os only - ubuntu)
 		https://classroom.udacity.com/nanodegrees/nd004/parts/ab002e9a-b26c-43a4-8460-dc4c4b11c379/modules/357367901175462/lessons/3573679011239847/concepts/c4cbd3f2-9adb-45d4-8eaf-b5fc89cc606e
